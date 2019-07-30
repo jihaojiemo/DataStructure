@@ -1,7 +1,5 @@
 package com.github.jihaojiemo.stack;
 
-import com.github.jihaojiemo.queue.TestMyQueue;
-
 public class TestDemo {
 
     public static void main(String[] args) {
