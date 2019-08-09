@@ -250,11 +250,11 @@ public class TestBinaryTree {
         }
         if (isSameTree(s, t)) {
             return true;
-        }else if (isSubtree(s.left, t)) {
+        } else if (isSubtree(s.left, t)) {
             return true;
         } else if (isSubtree(s.right, t)) {
             return true;
-        }else {
+        } else {
             return false;
         }
     }
